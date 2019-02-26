@@ -21,7 +21,7 @@
 	function clickdel(){
 		return confirm("删除请点击确认");
 	}
-	
+// 注释
 </script>
     <ul class="classlist">
       <%	
