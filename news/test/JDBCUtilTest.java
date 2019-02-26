@@ -8,6 +8,7 @@ import static org.junit.Assert.*;
 *JDBC测试
  * master分支上有更新，merge到new_branch上
  *测试fetch
+ *测试pull
 */
 public class JDBCUtilTest {
     @Test
