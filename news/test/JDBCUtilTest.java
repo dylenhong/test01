@@ -10,6 +10,7 @@ import static org.junit.Assert.*;
  *测试fetch
  *测试pull
  * 测试head
+ * 这是h分支，有个新功能
 */
 public class JDBCUtilTest {
     @Test
