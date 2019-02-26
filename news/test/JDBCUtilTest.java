@@ -6,6 +6,7 @@ import java.sql.Connection;
 import static org.junit.Assert.*;
 /**
 *JDBC测试
+ * master分支上有更新，merge到new_branch上
 */
 public class JDBCUtilTest {
     @Test
