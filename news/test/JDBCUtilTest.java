@@ -9,6 +9,7 @@ import static org.junit.Assert.*;
  * master分支上有更新，merge到new_branch上
  *测试fetch
  *测试pull
+ * 测试head
 */
 public class JDBCUtilTest {
     @Test
